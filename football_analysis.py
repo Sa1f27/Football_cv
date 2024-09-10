@@ -5,5 +5,4 @@ import numpy as np
 from team_assigner import TeamAssigner
 from player_ball_assigner import PlayerBallAssigner
 from camera_movement_estimator import CameraMovementEstimator
-from view_transformer import ViewTransformer
 from speed_and_distance_estimator import SpeedAndDistance_Estimator
