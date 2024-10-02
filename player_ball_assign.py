@@ -1,4 +1,6 @@
 import sys 
+import numpy as np
+
 sys.path.append('../')
 from utils import get_center_of_bbox, measure_distance
 
